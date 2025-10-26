@@ -22,7 +22,7 @@ Este proyecto sirve como una implementación práctica y funcional de un **siste
 * **Interfaz de Usuario Agradable:** Desarrollado con CustomTkinter para un look and feel moderno, intuitivo y adaptable al tamaño de la ventana.
 * **Multiplataforma:** Empaquetable como ejecutable para sistemas operativos como Windows, macOS y Linux.
 
-## 🚀 Instalación y Ejecución
+## Instalación y Ejecución
 
 ### Requisitos Previos
 
